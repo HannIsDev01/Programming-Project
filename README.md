@@ -14,5 +14,5 @@ Here, very basic calculations will be done (Sum , Subtraction , Multiplication ,
     VS Code as the primary IDE
 
 # 🙏 Thank You
-    Author: Joysurya Paul Chowdhury
+    Author: Abdul Hannan.
     Session: 2025
