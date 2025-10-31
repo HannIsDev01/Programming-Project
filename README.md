@@ -9,9 +9,9 @@ Here, very basic calculations will be done (Sum , Subtraction , Multiplication ,
 
 
 # 🧰 Tools Used
-    GCC / MinGW for C and C++
-    JDK 21 for Java
-    VS Code as the primary IDE
+  GCC / MinGW for C and C++
+  JDK 21 for Java
+  VS Code as the primary IDE
 
 # 🙏 Thank You
     Author: Abdul Hannan.
