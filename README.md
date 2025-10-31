@@ -12,7 +12,7 @@ The program gives hints if your guess is too high or too low until you get it ri
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/hannan-noori/College-Project.git
+   git clone https://github.com/hannan-noori/Guess-Game.git
 
 ## 👨‍💻 Author
 Created by Abdul Hannan  
